@@ -89,7 +89,7 @@ I created these images, feel free to use them.
 <!-- Its main projects -->
 <p align="center">
   <a href="https://github.com/nithin2889/crwn-clothing">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nithin&repo=crwn-clothing" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nithin2889&repo=crwn-clothing" />
   </a>
   <a href="https://github.com/nithin2889/monsters-rolodex">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nithin2889&repo=monsters-rolodex" />
