@@ -19,8 +19,8 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on [Crwn Clothing](https://github.com/nithin2889/crwn-clothing);
-- 🌱 I’m currently learning ReactJS and CSS3; 
-- 🤔 I’m looking for help with React Native;
+- 🌱 I’m currently learning NodeJS, ReactJS, and CSS3; 
+- 🤔 I’m looking for help with my work-life balance;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in computer science and engineering;
 - 📫 How to reach me: nithin2889@gmail.com;
