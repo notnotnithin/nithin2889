@@ -69,18 +69,6 @@ Both apis are in trouble due to the number of requests, if you know any other to
     <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=nithin2889.nithin2889" />
 </p>
 
-## Support me
-<!-- Your support, if you have it 
-I created these images, feel free to use them.
--->
-<p align="center">
-  <a href="https://www.buymeacoffee.com/nithpras" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
-  </a>
-</p>
-
----
-
 <!-- Its main projects -->
 <p align="center">
   <a href="https://github.com/nithin2889/crwn-clothing">
